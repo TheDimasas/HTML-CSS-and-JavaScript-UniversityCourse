@@ -1,6 +1,5 @@
-## HTML, CSS, JavaScript for Web Developers
+## Web technologies and site programming
 ### Taras Shevchenko National University of Kyiv
-#### Web technologies and site programming
 ---
 This repository contains my solutions to the all laboratory and project works Coding Assignments for the course Web technologies and site programming by Taras Shevchenko National University of Kyiv.  
 
